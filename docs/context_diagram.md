@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
 
   subgraph Personas
@@ -49,3 +50,4 @@ flowchart LR
   class cliente,fuerza,ops,gerente actor;
   class medisupply sistema;
   class erp,pagos,tms,proveedor,notif,maps,bi,idp externo;
+```
