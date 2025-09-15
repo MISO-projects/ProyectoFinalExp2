@@ -1,0 +1,5 @@
+Flask==3.0.3
+numpy==2.0.2
+ortools==9.10.4067
+gunicorn==22.0.0
+requests==2.31.0
